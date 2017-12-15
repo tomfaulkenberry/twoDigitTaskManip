@@ -1,0 +1,75 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/exp1-1.pdf}
+\caption{\label{fig:exp1}Median RTs as a function of congruency (congruent,
+incongruent), instruction condition (overall, decade only, unit only),
+and task (magnitude, parity). Error bars represent within-subject 95\%
+confidence intervals as recommended by Morey (2008).}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/exp2-mt-1.pdf}
+\caption{\label{fig:exp2-mt}Median mouse movement times (MTs) as a function
+of congruency (congruent, incongruent), instruction condition (overall,
+decade only, unit only), and task (magnitude, parity). Error bars
+represent within-subject 95\% confidence intervals as recommended by
+Morey (2008).}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/exp2-init-1.pdf}
+\caption{\label{fig:exp2-init}Median mouse initiation times as a function of
+congruency (congruent, incongruent), instruction condition (overall,
+decade only, unit only), and task (magnitude, parity). Error bars
+represent within-subject 95\% confidence intervals as recommended by
+Morey (2008).}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/magnitudeTrajectories-1.pdf}
+\caption{\label{fig:magnitudeTrajectories}Average normalized mouse
+trajectories for the magnitude task, presented as a function of
+congruency (congruent, incongruent), instruction condition (overall,
+decade only, unit only), and response side (left, right).}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/parityTrajectories-1.pdf}
+\caption{\label{fig:parityTrajectories}Average normalized mouse trajectories
+for the parity task, presented as a function of congruency (congruent,
+incongruent), instruction condition (overall, decade only, unit only),
+and response side (left, right).}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{paper_files/figure-latex/exp2-auc-1.pdf}
+\caption{\label{fig:exp2-auc}Median area-under-the-curve (AUC) as a function
+of congruency (congruent, incongruent), instruction condition (overall,
+decade only, unit only), and task (magnitude, parity). Error bars
+represent within-subject 95\% confidence intervals as recommended by
+Morey (2008).}
+\end{figure*}
+\efloatseparator
+ 
