@@ -749,6 +749,13 @@ Finally, we discuss some possible limitations of our study. First, despite the e
 
 To summarize, our study demonstrates the role of task context for unit-decade binding in two-digit number representation.  We have demonstrated that processing both components of two-digit numbers is obligatory only if participants have been asked to consider the two-digit number as an integral mathematical whole. However, if participants have been explicitly asked to pay attention to one digit only, their ability to ignore the irrelevant adjacent digit depends on the task requirements.  This asymmetrical pattern in selective attention indicates the deep involvement of top-down processes in two-digit number representation.
 
+#### Compliance with ethical standards
+
+Conflict of interest: Thomas J. Faulkenberry declares that he has no conflict of interest. Alexander Cruise declares that he has no conflict of interest. Samuel Shaki declares that he has no conflict of interest.
+
+Ethical approval: All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+
+Informed consent:  Informed consent was obtained from all individual participants included in the study.
 
 \newpage
 
